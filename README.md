@@ -1,7 +1,7 @@
 # Company Application
 
 ## Submitted By
-> Suchuwan Chaiworn, 6135102
+> Suchawan Chaiworn, 6135102
 
 ## Project Description
 This project is a company application, where users can manage their company's products and quotations. This includes creating, reading, updating and deleting entries. There are two main enitities involved in this web application and they are products and quotations.
